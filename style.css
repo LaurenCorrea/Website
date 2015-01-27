@@ -36,5 +36,7 @@
     }
     
     section{
-        background-image: url(http://payload175.cargocollective.com/1/8/282864/5815628/DSC_0631_1_900.jpg);
+        text-align: center;
+        background-image: url(https://s3.amazonaws.com/StartupStockPhotos/20140808_StartupStockPhotos/103.jpg);
+        height:400px;
     }
