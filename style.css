@@ -1,4 +1,4 @@
-    body{
+   body{
       color: #212121;
       font-family: sans-serif;
     }
@@ -10,8 +10,13 @@
         border-radius: 2px;
         margin: 5px;
         padding: 5px;
+        display: inline-block;
         
     }
+    
+      nav a:hover{
+        background-color: #727272;  
+      }
     
     h2{
       color: #1FCCB2;
