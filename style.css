@@ -1,9 +1,15 @@
- body{
-      background-color:9AE8FF;
-      color: #495757;
+   
+    body{
+      color: #212121;
       font-family: sans-serif;
     }
     
+    nav a {
+        text-decoration: none;
+        color: #F5F5F5;
+        background-color: #9E9E9E;
+    }
+    
     h2{
-      color: #A8C7C7;
+      color: #1FCCB2;
     }
