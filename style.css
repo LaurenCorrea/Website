@@ -1,4 +1,4 @@
- body{
+    body{
       color: #212121;
       font-family: sans-serif;
     }
@@ -33,4 +33,8 @@
     
     h2{
       color: #1FCCB2;
+    }
+    
+    section{
+        background-image: url(http://payload175.cargocollective.com/1/8/282864/5815628/DSC_0631_1_900.jpg);
     }
