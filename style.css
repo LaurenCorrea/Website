@@ -29,7 +29,8 @@
     }  
     
     header h1{
-        font-family: 'Lobster', cursive, 72px;
+        font-family: 'Lobster', cursive;
+        font-size: 57;
     }
     
     h2{
