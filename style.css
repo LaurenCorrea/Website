@@ -1,5 +1,5 @@
     body{
-      color: #132933;
+      color: #212121;
       font-family: sans-serif;
     }
     
@@ -24,25 +24,30 @@
     }
       
     header img{
-        border-radius: 20%;
+        border-radius: 50%;
     }  
     
     header h1{
-        font-family: 'lobster', normal
+        font-family: 'Lobster', cursive;
     }
     
     h2{
-      color: #ACE9DE;
+      color: #1FCCB2;
     }
     
- section{
+    section{
         text-align: center;
         background-image: url(http://payload175.cargocollective.com/1/8/282864/5815628/DSC_0631_1_o.jpg);
-        height: 500px;
+        height: 400px;
         background-size: cover;
     }
- 
- button{
+
+#features{
+  background-color: blue;
+  height: 250px;
+}
+    
+    button{
         color: #FFF;
         background-color: #F00;
         border: none;
@@ -50,7 +55,4 @@
         padding: 5px;
         margin-top: 40px;
     }
-#features{
-    background-color:blue;
-    height: 250px;
-}
+    
