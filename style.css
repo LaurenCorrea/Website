@@ -72,3 +72,8 @@ p:hover{
         padding: 5px;
         margin-top: 40px;
     }
+article {
+    color: white;
+    border: 2px;
+    background-color: violet;
+}
