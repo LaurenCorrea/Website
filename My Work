@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<title> Contact Lauren </title>
+<link href="style.css" rel="stylesheet"> 
+</head>
+<body>
+
+<nav>
+<a href="index.html"> Home </a> | <a href="about.html"> About </a> | <a href="Contact.html"> Contact </a>
+</nav>
+
+<h1>My Work</h1>
+<br>
+<a <img src="https://farm8.staticflickr.com/7342/16488546852_2a60d0a5df_z.jpg">
+</a>
+<a
+<img src="https://farm8.staticflickr.com/7430/16303262049_191dbe616e_z.jpg">
+</a>
+</body>
+</html>
