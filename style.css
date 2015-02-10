@@ -44,6 +44,7 @@
         background-image: url(http://payload175.cargocollective.com/1/8/282864/5815628/DSC_0631_1_o.jpg);
         height: 400px;
         background-size: cover;
+        border-radius: 3px;
     }
 
 #features{
