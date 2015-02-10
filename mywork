@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<title> Contact Lauren </title>
+<title> My work </title>
 <link href="style.css" rel="stylesheet"> 
 </head>
 <body>
@@ -17,5 +17,7 @@
 <a
 <img src="https://farm8.staticflickr.com/7430/16303262049_191dbe616e_z.jpg">
 </a>
+<a <img src="https://farm8.staticflickr.com/7348/16489531935_90806d37c6_z.jpg"> </a>
+<a <img src="https://farm8.staticflickr.com/7342/16303262459_40f1bb2fd8_z.jpg"> </a>
 </body>
 </html>
