@@ -51,6 +51,7 @@
   background-image: none;
   background-color: rgba(43, 43, 57, 1);
   height: 250px;
+  border-radius: 3px;
 }
 
 p {
