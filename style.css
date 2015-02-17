@@ -81,3 +81,7 @@ article {
     border: 1px;
     background-color: #9E9E9E;
 }
+
+.menu-selected{
+  background-color: #00bcd4;
+}
